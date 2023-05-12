@@ -18,7 +18,7 @@
 
 
 <h3>🚀 About Me</h3> 
-<h4> I'm Mayar Mahmoud from Egypt. I'm a Mobile Application Developer.I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm Student and Still learning. </h4>
+<h4> I'm a senoior Electronics & Electrical Communications Engineering student.I am interested in Digital IC Design and Verification. </h4>
 
 
 

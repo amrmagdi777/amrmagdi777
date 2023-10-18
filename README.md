@@ -18,7 +18,7 @@
 
 
 <h3>🚀 About Me</h3> 
-<h4> I'm a senoior Electronics & Electrical Communications Engineering student. I'm interested in Digital IC Design and Verification. </h4>
+<h4> I'm a fresh graduate | Cairo University | Electronics and Communications Engineer. I'm looking forward to an opportunity in Digital IC design and verification. </h4>
 
 
 
